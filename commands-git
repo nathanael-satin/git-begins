@@ -1,0 +1,7 @@
+pour cloner un repository il faut faire "git clone + la clé du repository"
+
+git add .
+
+git commit -m "message"
+
+git push
