@@ -7,3 +7,7 @@ git commit -m "message"
 git push
 
 git pull
+
+pour creer une branche on fait git branch +nom de la branche
+
+et pour switcher on fait git checkout +nom de la branch
